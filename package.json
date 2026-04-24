@@ -1,0 +1,12 @@
+{
+  "name": "yingmi-search",
+  "version": "1.0.0",
+  "description": "盈米投顾内容搜索工具",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
